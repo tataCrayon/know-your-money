@@ -1,0 +1,35 @@
+{
+  "version": 1,
+  "skills": {
+    "company-valuation": {
+      "source": "himself65/finance-skills",
+      "sourceType": "github",
+      "skillPath": "plugins/market-analysis/skills/company-valuation/SKILL.md",
+      "computedHash": "8111c3da402ea72cd439e76c28c84bf0ade7833b84f4df9c99444b584ab37dbe"
+    },
+    "eastmoney_financial_data": {
+      "source": "meission/eastmoney",
+      "sourceType": "github",
+      "skillPath": "skills/financial-data/SKILL.md",
+      "computedHash": "d70e977e2299a3ad22734cc525e83ecf09ee2df031fb26e4e17eb6ade47a3c28"
+    },
+    "longbridge-research": {
+      "source": "longbridge/skills",
+      "sourceType": "github",
+      "skillPath": "skills/longbridge-research/SKILL.md",
+      "computedHash": "3f6b13816d8931ba704fef1db727f9f20fc0097156fdb26f05958137ab8aa661"
+    },
+    "market-research-reports": {
+      "source": "davila7/claude-code-templates",
+      "sourceType": "github",
+      "skillPath": "cli-tool/components/skills/scientific/market-research-reports/SKILL.md",
+      "computedHash": "cf1440b6e3057d587297a39bd0303b3db3eb91195e17e07916f6243fbfc7f5ca"
+    },
+    "stock-analysis": {
+      "source": "gracefullight/stock-checker",
+      "sourceType": "github",
+      "skillPath": ".agents/skills/stock-analysis/SKILL.md",
+      "computedHash": "095b89fb6c8ed3c5a01803f18749997ae3c8efbaa938637ebc694f8594ef4b6e"
+    }
+  }
+}

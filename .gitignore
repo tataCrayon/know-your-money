@@ -1,0 +1,10 @@
+# 工具 / agent 配置目录（非项目内容，不纳入版本管理）
+.claude/
+.firecrawl/
+.obsidian/
+.agents/
+.workbuddy/
+
+# 系统 / 编辑器
+.DS_Store
+Thumbs.db
