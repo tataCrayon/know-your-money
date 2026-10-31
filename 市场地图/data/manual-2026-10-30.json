@@ -1,0 +1,21 @@
+{
+ "_note": "手工快照兜底：东财 push2 ulist 在 2026-10-31 采集时段全线 RemoteDisconnected，全球指数实时读数由本会话早前成功请求（约 2026-10-31 17:20）取得，逐条抄录于此，供 collect_snapshot.py 在实时接口失败时合并使用。trade_date = 2026-10-30。",
+ "trade_date": "2026-10-30",
+ "captured_at": "2026-10-31 17:20 (Asia/Shanghai)",
+ "source": "eastmoney push2 /api/qt/ulist.np/get (secid 100.XXX)",
+ "jp": {"N225": {"name": "日经225", "last": 63290.11, "chg1d": -2.12}},
+ "eu": {
+  "FTSE": {"name": "英国富时100", "last": 10729.78, "chg1d": 0.07},
+  "GDAXI": {"name": "德国DAX", "last": 25818.21, "chg1d": -0.85},
+  "FCHI": {"name": "法国CAC40", "last": 7969.42, "chg1d": -0.01},
+  "SX5E": {"name": "欧洲斯托克50", "last": 6131.31, "chg1d": -1.22}
+ },
+ "em": {
+  "KS11": {"name": "韩国KOSPI", "last": 5730.74, "chg1d": -3.48},
+  "SENSEX": {"name": "印度SENSEX", "last": 74459.53, "chg1d": 0.42},
+  "STI": {"name": "新加坡海峡时报", "last": 5376.74, "chg1d": -0.36},
+  "AS51": {"name": "澳洲标普200", "last": 8908.1, "chg1d": 0.18},
+  "BDI": {"name": "波罗的海BDI", "last": 2714.0, "chg1d": 0.07},
+  "TWII": {"name": "台湾加权", "last": 45211.83, "chg1d": -2.49}
+ }
+}

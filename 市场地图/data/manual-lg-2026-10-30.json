@@ -1,0 +1,41 @@
+{
+  "_meta": {
+    "purpose": "乐咕乐股（legulegu.com）估值读数的抄录兜底。2026-10-31 18:30 之后该站全站返回 504，接口无法重取，以下数值来自本机 2026-10-31 18:32 一次成功的直接调用。",
+    "policy": "这是抄录，不是补数：只写当时真的从接口拿到的值，一个都不推算。",
+    "captured_at": "2026-10-31 18:32 (Asia/Shanghai)",
+    "source": "akshare.stock_index_pe_lg / stock_index_pb_lg (legulegu index-basic-pe / index-basic-pb)",
+    "frequency": "月频。乐咕 index-basic 接口按月给点，不是日频。",
+    "percentile_window": "full_history_not_10y",
+    "percentile_note": "该序列为月频，沪深300 仅 259 行，尾部 2500 行取不满 → 分位实际是【全历史】而非【10 年】。这里显式标注，避免再被读成 10 年分位。"
+  },
+  "000300": {
+    "name": "沪深300",
+    "pe_ttm_lg": 12.17,
+    "pe_pct_all": 42.5,
+    "pe_all_n": 259,
+    "pb_lg": 1.33,
+    "pb_pct_all": 14.7,
+    "pb_all_n": 259,
+    "pe_lg_date": "2026-10-30"
+  },
+  "000905": {
+    "name": "中证500",
+    "pe_ttm_lg": 21.72,
+    "pe_pct_all": 33.2,
+    "pe_all_n": 238,
+    "pb_lg": 1.93,
+    "pb_pct_all": 28.2,
+    "pb_all_n": 238,
+    "pe_lg_date": "2026-10-30"
+  },
+  "000852": {
+    "name": "中证1000",
+    "pe_ttm_lg": 24.06,
+    "pe_pct_all": 28.3,
+    "pe_all_n": 145,
+    "pb_lg": 1.94,
+    "pb_pct_all": 11.0,
+    "pb_all_n": 145,
+    "pe_lg_date": "2026-10-30"
+  }
+}

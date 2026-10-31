@@ -1,0 +1,79 @@
+OK   em_ulist_cn_index                         41.3s
+OK   stock_zh_index_daily_sh000001              0.3s
+OK   stock_zh_index_daily_sz399001              0.1s
+OK   stock_zh_index_daily_sh000300              0.2s
+OK   stock_zh_index_daily_sh000905              0.2s
+OK   stock_zh_index_daily_sh000852              0.2s
+OK   stock_zh_index_daily_sh000016              0.2s
+OK   stock_zh_index_daily_sz399006              0.3s
+OK   stock_zh_index_daily_sh000688              0.2s
+OK   stock_zh_index_daily_bj899050              0.1s
+OK   stock_zh_index_daily_sh000012              0.3s
+OK   stock_zh_index_daily_sz399975              0.2s
+OK   stock_zh_index_daily_sh000827              0.3s
+ERR  stock_index_pe_lg_沪深300                   24.2s AttributeError: 'NoneType' object has no attribute 'attrs'
+ERR  stock_index_pb_lg_沪深300                   24.2s AttributeError: 'NoneType' object has no attribute 'attrs'
+WARN 乐咕 沪深300 接口失败，已合并抄录值 D:\Projects\MyProjects\know-your-money\市场地图\data\manual-lg-2026-10-30.json
+ERR  stock_index_pe_lg_中证500                   24.1s AttributeError: 'NoneType' object has no attribute 'attrs'
+ERR  stock_index_pb_lg_中证500                   24.1s AttributeError: 'NoneType' object has no attribute 'attrs'
+WARN 乐咕 中证500 接口失败，已合并抄录值 D:\Projects\MyProjects\know-your-money\市场地图\data\manual-lg-2026-10-30.json
+ERR  stock_index_pe_lg_中证1000                  24.1s AttributeError: 'NoneType' object has no attribute 'attrs'
+ERR  stock_index_pb_lg_中证1000                  24.2s AttributeError: 'NoneType' object has no attribute 'attrs'
+WARN 乐咕 中证1000 接口失败，已合并抄录值 D:\Projects\MyProjects\know-your-money\市场地图\data\manual-lg-2026-10-30.json
+ERR  stock_index_pe_lg_上证50                    24.1s AttributeError: 'NoneType' object has no attribute 'attrs'
+ERR  stock_index_pb_lg_上证50                    24.1s AttributeError: 'NoneType' object has no attribute 'attrs'
+OK   csindex_000300                             1.6s
+OK   csindex_000905                             1.4s
+OK   csindex_000852                             2.2s
+OK   csindex_000016                             9.1s
+OK   csindex_000688                             2.5s
+OK   csindex_000001                             6.7s
+OK   csindex_930713                             6.1s
+OK   csindex_H30184                             1.0s
+OK   csindex_930599                             4.9s
+OK   csindex_931865                             4.1s
+OK   hk_index_daily_HSI                         0.2s
+OK   hk_index_daily_HSCEI                       0.2s
+OK   hk_index_daily_HSTECH                      0.1s
+OK   hk_index_spot_sina                         0.1s
+OK   us_index_.INX                              0.2s
+OK   us_index_.NDX                              0.1s
+OK   us_index_.IXIC                             0.2s
+OK   us_index_.DJI                              0.4s
+OK   cboe_vix                                   1.8s
+OK   em_ulist_global_all                      146.8s
+WARN global_equity 实时接口失败，已合并手工快照 D:\Projects\MyProjects\know-your-money\市场地图\data\manual-2026-10-30.json
+OK   futures_foreign_GC                         0.3s
+OK   futures_foreign_SI                         0.2s
+OK   futures_foreign_HG                         0.2s
+OK   futures_foreign_CL                         0.4s
+OK   futures_foreign_NG                         0.2s
+OK   futures_foreign_CT                         0.2s
+OK   futures_foreign_KC                         0.2s
+OK   futures_foreign_CC                         0.2s
+OK   futures_main_sina_RB0                      0.3s
+OK   futures_main_sina_I0                       0.3s
+OK   futures_main_sina_CU0                      0.3s
+OK   futures_main_sina_AU0                      0.2s
+OK   futures_main_sina_AG0                      0.3s
+OK   futures_main_sina_SC0                      0.2s
+OK   futures_main_sina_M0                       0.2s
+OK   futures_main_sina_CF0                      0.4s
+OK   bond_zh_us_rate                            0.3s
+OK   bond_china_yield                           1.3s
+OK   macro_china_lpr                            0.5s
+OK   bond_new_composite_index_cbond             1.2s
+OK   bond_treasury_index_cbond                  0.8s
+OK   bond_cb_index_jsl                          0.5s
+OK   currency_boc_sina                          2.1s
+OK   fund_name_em                               3.9s
+OK   fund_open_fund_rank_em                     3.4s
+OK   money_fund_daily                           0.3s
+OK   fund_new_found_em                          3.3s
+OK   fund_aum_em                                0.1s
+OK   fund_etf_fund_daily_em                     0.5s
+OK   fund_etf_spot_ths                          0.6s
+OK   fund_name_em                               3.8s
+OK   stock_ipo_declare_em                       1.5s
+OK   stock_new_ipo_cninfo                       0.3s
+OK   bond_zh_cov                                4.1s
