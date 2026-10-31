@@ -21,13 +21,25 @@
 ```
 know-your-money/
 ├── AGENTS.md            # 本文件：角色与行为准则
+├── README.md            # 仓库入口：能做什么、怎么用、环境依赖
 ├── 投资学习计划.md        # 三主线总计划（考证/学习/实践）
+├── 教学进度.md            # 教学进度唯一真相源（概念清单/复习节点/逾期/下一步）
+├── 技能清单.md            # 每个技能的用途、来源、许可证
+├── skills-lock.json     # 外部技能的版本锁
+├── .agents/skills/      # 11 个技能（自有 + 外部安装），随仓库提交
 ├── notes/               # 学习笔记与操作笔记（按月分文件）
 │   ├── lessons/         # 教学笔记（概念讲解）
+│   ├── analysis/        # 分析笔记（标的分析 / 事件复盘）
 │   └── trades/          # 操作笔记（每笔操作一篇）
 ├── reviews/             # 月度复盘
-└── templates/           # 笔记与复盘模板
+├── templates/           # 笔记与复盘模板
+├── 学习笔记/             # 平台化输出草稿（如小红书「每日5问」）
+└── CPT/                 # 考证备考
 ```
+
+**`.agents/skills/` 属于仓库内容，不是本机配置**——它决定这个仓库能否独立运行，必须提交。只有 `.claude/`、`.obsidian/`、`.firecrawl/`、`.workbuddy/` 这类工具侧配置被忽略。
+
+**每次教学或分析结束后**：更新 `教学进度.md`（概念清单、复习节点、下一步），并在笔记 frontmatter 里补 `首学日期` + `复习节点`。
 
 ## 可用技能
 
@@ -35,6 +47,7 @@ know-your-money/
 |---|---|---|
 | `invest-lesson` | 概念教学（安全边际、定投、指数基金、估值等） | `/invest-lesson <概念>` |
 | `market-analysis` | 公司/基金/指数的结构化分析 | `/market-analysis <标的>` |
+| `market-oracle` | 用交易数据读市场共识：概率、情景、一件事市场怎么定价（预测市场/期权/资金流/商品与利率） | `/market-oracle <问题>` |
 | `invest-note` | 操作/学习笔记记录 | `/invest-note` |
 | `monthly-review` | 月度复盘（学习进度 + 持仓逻辑验证） | `/monthly-review` |
 | `company-valuation` | DCF/相对估值/SOTP 三法估值（外部安装） | 问「XX 公司值多少钱/DCF」时触发 |

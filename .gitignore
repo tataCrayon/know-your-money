@@ -1,10 +1,20 @@
-# 工具 / agent 配置目录（非项目内容，不纳入版本管理）
+# 工具 / 编辑器配置目录（非项目内容，不纳入版本管理）
 .claude/
 .firecrawl/
 .obsidian/
-.agents/
 .workbuddy/
+
+# 注意：.agents/ 是**纳入版本管理**的——它装着 11 个技能（自有 + 外部安装），
+# 是这个仓库能独立运行的前提。详见 技能清单.md。
 
 # 系统 / 编辑器
 .DS_Store
 Thumbs.db
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.pytest_cache/
+.mypy_cache/
