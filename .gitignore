@@ -20,4 +20,8 @@ venv/
 .mypy_cache/
 
 # 采集过程的临时探针输出（不是仓库内容）
+# 定稿分析的原始快照要复制到 notes/analysis/snapshots/ 随笔记一起提交
 .cache/
+
+# 本机误存的其他项目内部文档（如 templates/gap.md），不属于本仓库内容
+templates/gap.md
