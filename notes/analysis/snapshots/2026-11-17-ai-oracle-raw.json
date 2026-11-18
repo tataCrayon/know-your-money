@@ -1,0 +1,669 @@
+{
+  "data": {
+    "cambricon_quote": {
+      "type": "eastmoney_quote",
+      "horizon": "盘中快照",
+      "quote": {
+        "symbol": "688256",
+        "name": "寒武纪",
+        "last": 901.07,
+        "prev_close": 897.97,
+        "open": 910.0,
+        "high": 950.0,
+        "low": 886.0,
+        "change": 3.1,
+        "change_pct": 0.35,
+        "volume_lots": 127028,
+        "turnover_cny": 11638932437.0,
+        "turnover_rate_pct": 2.02,
+        "pe_ttm": 114.41,
+        "pb": 37.47,
+        "market_cap_cny": 566641480988.56,
+        "float_market_cap_cny": 566641480988.56
+      },
+      "as_of": "2026-11-17"
+    },
+    "cambricon_flow": {
+      "type": "eastmoney_fund_flow",
+      "horizon": "日度资金流，指向数日至数周",
+      "symbol": "688256",
+      "days": [
+        {
+          "date": "2026-11-05",
+          "main_net_cny": 293972960.0,
+          "main_net_pct": 2.7,
+          "retail_net_cny": -293972944.0
+        },
+        {
+          "date": "2026-11-06",
+          "main_net_cny": 287652400.0,
+          "main_net_pct": 3.23,
+          "retail_net_cny": -287652399.0
+        },
+        {
+          "date": "2026-11-09",
+          "main_net_cny": 934730192.0,
+          "main_net_pct": 9.0,
+          "retail_net_cny": -934730170.0
+        },
+        {
+          "date": "2026-11-10",
+          "main_net_cny": -238617424.0,
+          "main_net_pct": -3.05,
+          "retail_net_cny": 238617428.0
+        },
+        {
+          "date": "2026-11-11",
+          "main_net_cny": 1030777440.0,
+          "main_net_pct": 10.19,
+          "retail_net_cny": -1030777426.0
+        },
+        {
+          "date": "2026-11-12",
+          "main_net_cny": 1406313728.0,
+          "main_net_pct": 6.97,
+          "retail_net_cny": -1406313899.0
+        },
+        {
+          "date": "2026-11-13",
+          "main_net_cny": -340052992.0,
+          "main_net_pct": -2.12,
+          "retail_net_cny": 340052860.0
+        },
+        {
+          "date": "2026-11-16",
+          "main_net_cny": -801232048.0,
+          "main_net_pct": -6.25,
+          "retail_net_cny": 801232102.0
+        }
+      ],
+      "as_of": "2026-11-05"
+    },
+    "cambricon_kline": {
+      "type": "eastmoney_kline",
+      "horizon": "取决于 period",
+      "symbol": "688256",
+      "bars": [
+        {
+          "date": "2026-09-30",
+          "close": 1009.01
+        },
+        {
+          "date": "2026-10-08",
+          "close": 981.0
+        },
+        {
+          "date": "2026-10-09",
+          "close": 985.99
+        },
+        {
+          "date": "2026-10-12",
+          "close": 971.88
+        },
+        {
+          "date": "2026-10-13",
+          "close": 976.49
+        },
+        {
+          "date": "2026-10-14",
+          "close": 929.0
+        },
+        {
+          "date": "2026-10-15",
+          "close": 897.17
+        },
+        {
+          "date": "2026-10-16",
+          "close": 915.0
+        },
+        {
+          "date": "2026-10-19",
+          "close": 928.51
+        },
+        {
+          "date": "2026-10-20",
+          "close": 921.0
+        },
+        {
+          "date": "2026-10-21",
+          "close": 916.42
+        },
+        {
+          "date": "2026-10-22",
+          "close": 883.94
+        },
+        {
+          "date": "2026-10-23",
+          "close": 932.2
+        },
+        {
+          "date": "2026-10-26",
+          "close": 968.0
+        },
+        {
+          "date": "2026-10-27",
+          "close": 912.98
+        },
+        {
+          "date": "2026-10-28",
+          "close": 958.0
+        },
+        {
+          "date": "2026-10-29",
+          "close": 913.0
+        },
+        {
+          "date": "2026-10-30",
+          "close": 880.0
+        },
+        {
+          "date": "2026-11-02",
+          "close": 861.0
+        },
+        {
+          "date": "2026-11-03",
+          "close": 767.93
+        },
+        {
+          "date": "2026-11-04",
+          "close": 847.66
+        },
+        {
+          "date": "2026-11-05",
+          "close": 845.0
+        },
+        {
+          "date": "2026-11-06",
+          "close": 802.9
+        },
+        {
+          "date": "2026-11-09",
+          "close": 851.21
+        },
+        {
+          "date": "2026-11-10",
+          "close": 838.0
+        },
+        {
+          "date": "2026-11-11",
+          "close": 900.0
+        },
+        {
+          "date": "2026-11-12",
+          "close": 973.0
+        },
+        {
+          "date": "2026-11-13",
+          "close": 978.88
+        },
+        {
+          "date": "2026-11-16",
+          "close": 897.97
+        },
+        {
+          "date": "2026-11-17",
+          "close": 901.07
+        }
+      ],
+      "latest_close": 901.07,
+      "as_of": "2026-11-17"
+    },
+    "innolight_quote": {
+      "type": "eastmoney_quote",
+      "horizon": "盘中快照",
+      "quote": {
+        "symbol": "300308",
+        "name": "中际旭创",
+        "last": 389.4,
+        "prev_close": 408.97,
+        "open": 398.88,
+        "high": 410.96,
+        "low": 383.0,
+        "change": -19.57,
+        "change_pct": -4.79,
+        "volume_lots": 487564,
+        "turnover_cny": 19251253169.31,
+        "turnover_rate_pct": 4.39,
+        "pe_ttm": 15.47,
+        "pb": 4.86,
+        "market_cap_cny": 458678014205.4,
+        "float_market_cap_cny": 432209468968.2
+      },
+      "as_of": "2026-11-17"
+    },
+    "innolight_flow": {
+      "type": "eastmoney_fund_flow",
+      "horizon": "日度资金流，指向数日至数周",
+      "symbol": "300308",
+      "days": [
+        {
+          "date": "2026-11-05",
+          "main_net_cny": -2261490688.0,
+          "main_net_pct": -7.35,
+          "retail_net_cny": 2261490670.0
+        },
+        {
+          "date": "2026-11-06",
+          "main_net_cny": -772533248.0,
+          "main_net_pct": -3.22,
+          "retail_net_cny": 772533408.0
+        },
+        {
+          "date": "2026-11-09",
+          "main_net_cny": 668769792.0,
+          "main_net_pct": 3.08,
+          "retail_net_cny": -668769431.0
+        },
+        {
+          "date": "2026-11-10",
+          "main_net_cny": 983518976.0,
+          "main_net_pct": 5.3,
+          "retail_net_cny": -983518519.0
+        },
+        {
+          "date": "2026-11-11",
+          "main_net_cny": 2987352064.0,
+          "main_net_pct": 9.57,
+          "retail_net_cny": -2987352207.0
+        },
+        {
+          "date": "2026-11-12",
+          "main_net_cny": -2649827328.0,
+          "main_net_pct": -7.88,
+          "retail_net_cny": 2649827130.0
+        },
+        {
+          "date": "2026-11-13",
+          "main_net_cny": -3015240192.0,
+          "main_net_pct": -11.65,
+          "retail_net_cny": 3015239920.0
+        },
+        {
+          "date": "2026-11-16",
+          "main_net_cny": -1930179840.0,
+          "main_net_pct": -8.2,
+          "retail_net_cny": 1930180084.0
+        }
+      ],
+      "as_of": "2026-11-05"
+    },
+    "innolight_kline": {
+      "type": "eastmoney_kline",
+      "horizon": "取决于 period",
+      "symbol": "300308",
+      "bars": [
+        {
+          "date": "2026-09-30",
+          "close": 807.246
+        },
+        {
+          "date": "2026-10-08",
+          "close": 781.806
+        },
+        {
+          "date": "2026-10-09",
+          "close": 774.096
+        },
+        {
+          "date": "2026-10-12",
+          "close": 724.47
+        },
+        {
+          "date": "2026-10-13",
+          "close": 735.0
+        },
+        {
+          "date": "2026-10-14",
+          "close": 692.9
+        },
+        {
+          "date": "2026-10-15",
+          "close": 656.94
+        },
+        {
+          "date": "2026-10-16",
+          "close": 670.0
+        },
+        {
+          "date": "2026-10-19",
+          "close": 660.7
+        },
+        {
+          "date": "2026-10-20",
+          "close": 647.9
+        },
+        {
+          "date": "2026-10-21",
+          "close": 646.77
+        },
+        {
+          "date": "2026-10-22",
+          "close": 590.11
+        },
+        {
+          "date": "2026-10-23",
+          "close": 612.63
+        },
+        {
+          "date": "2026-10-26",
+          "close": 594.5
+        },
+        {
+          "date": "2026-10-27",
+          "close": 577.0
+        },
+        {
+          "date": "2026-10-28",
+          "close": 636.3
+        },
+        {
+          "date": "2026-10-29",
+          "close": 582.05
+        },
+        {
+          "date": "2026-10-30",
+          "close": 553.0
+        },
+        {
+          "date": "2026-11-02",
+          "close": 550.0
+        },
+        {
+          "date": "2026-11-03",
+          "close": 480.2
+        },
+        {
+          "date": "2026-11-04",
+          "close": 533.38
+        },
+        {
+          "date": "2026-11-05",
+          "close": 493.33
+        },
+        {
+          "date": "2026-11-06",
+          "close": 448.0
+        },
+        {
+          "date": "2026-11-09",
+          "close": 452.03
+        },
+        {
+          "date": "2026-11-10",
+          "close": 471.0
+        },
+        {
+          "date": "2026-11-11",
+          "close": 542.0
+        },
+        {
+          "date": "2026-11-12",
+          "close": 508.9
+        },
+        {
+          "date": "2026-11-13",
+          "close": 466.2
+        },
+        {
+          "date": "2026-11-16",
+          "close": 408.97
+        },
+        {
+          "date": "2026-11-17",
+          "close": 389.0
+        }
+      ],
+      "latest_close": 389.0,
+      "as_of": "2026-11-17"
+    },
+    "eoptolink_quote": {
+      "type": "eastmoney_quote",
+      "horizon": "盘中快照",
+      "quote": {
+        "symbol": "300502",
+        "name": "新易盛",
+        "last": 157.9,
+        "prev_close": 166.8,
+        "open": 163.62,
+        "high": 167.46,
+        "low": 155.24,
+        "change": -8.9,
+        "change_pct": -5.34,
+        "volume_lots": 824151,
+        "turnover_cny": 13260020399.54,
+        "turnover_rate_pct": 6.57,
+        "pe_ttm": 14.52,
+        "pb": 7.88,
+        "market_cap_cny": 220229015880.4,
+        "float_market_cap_cny": 198120879809.2
+      },
+      "as_of": "2026-11-17"
+    },
+    "hygon_quote": {
+      "type": "eastmoney_quote",
+      "horizon": "盘中快照",
+      "quote": {
+        "symbol": "688041",
+        "name": "海光信息",
+        "last": 182.72,
+        "prev_close": 190.0,
+        "open": 187.95,
+        "high": 192.66,
+        "low": 180.02,
+        "change": -7.28,
+        "change_pct": -3.83,
+        "volume_lots": 234561,
+        "turnover_cny": 4348396654.0,
+        "turnover_rate_pct": 1.01,
+        "pe_ttm": 111.88,
+        "pb": 16.07,
+        "market_cap_cny": 424608018747.52,
+        "float_market_cap_cny": 424608018747.52
+      },
+      "as_of": "2026-11-17"
+    },
+    "sector_concept": {
+      "type": "eastmoney_sector",
+      "horizon": "日度轮动，指向数日至数周",
+      "sectors": [
+        {
+          "code": "BK0935",
+          "name": "中芯概念",
+          "change_pct": 1.51,
+          "main_net_cny": 3983367424.0,
+          "main_net_pct": 4.76
+        },
+        {
+          "code": "BK1688",
+          "name": "大基金持股",
+          "change_pct": 0.82,
+          "main_net_cny": 2748555008.0,
+          "main_net_pct": 4.66
+        },
+        {
+          "code": "BK1101",
+          "name": "先进封装",
+          "change_pct": 0.04,
+          "main_net_cny": 2658677760.0,
+          "main_net_pct": 2.5
+        },
+        {
+          "code": "BK1152",
+          "name": "高带宽内存",
+          "change_pct": 0.75,
+          "main_net_cny": 1702351648.0,
+          "main_net_pct": 4.44
+        },
+        {
+          "code": "BK0884",
+          "name": "光刻机",
+          "change_pct": 2.72,
+          "main_net_cny": 1669556192.0,
+          "main_net_pct": 4.84
+        },
+        {
+          "code": "BK0917",
+          "name": "半导体概念",
+          "change_pct": -0.53,
+          "main_net_cny": 1633829376.0,
+          "main_net_pct": 0.49
+        },
+        {
+          "code": "BK1695",
+          "name": "私募重仓",
+          "change_pct": -1.56,
+          "main_net_cny": 1513051136.0,
+          "main_net_pct": 1.76
+        },
+        {
+          "code": "BK0999",
+          "name": "茅指数",
+          "change_pct": 0.45,
+          "main_net_cny": 1314803968.0,
+          "main_net_pct": 1.74
+        },
+        {
+          "code": "BK0932",
+          "name": "尾气治理",
+          "change_pct": -1.44,
+          "main_net_cny": 1105966400.0,
+          "main_net_pct": 10.03
+        },
+        {
+          "code": "BK1108",
+          "name": "科创板做市股",
+          "change_pct": -0.95,
+          "main_net_cny": 1105418544.0,
+          "main_net_pct": 4.74
+        },
+        {
+          "code": "BK1716",
+          "name": "反转股",
+          "change_pct": 3.74,
+          "main_net_cny": 1062608560.0,
+          "main_net_pct": 14.81
+        },
+        {
+          "code": "BK0578",
+          "name": "稀土永磁",
+          "change_pct": -1.77,
+          "main_net_cny": 914773648.0,
+          "main_net_pct": 4.52
+        },
+        {
+          "code": "BK1000",
+          "name": "宁组合",
+          "change_pct": 0.71,
+          "main_net_cny": 900033536.0,
+          "main_net_pct": 2.27
+        },
+        {
+          "code": "BK0619",
+          "name": "3D打印",
+          "change_pct": -1.78,
+          "main_net_cny": 833624592.0,
+          "main_net_pct": 2.97
+        },
+        {
+          "code": "BK1753",
+          "name": "光刻胶",
+          "change_pct": 2.72,
+          "main_net_cny": 797670240.0,
+          "main_net_pct": 3.53
+        },
+        {
+          "code": "BK0580",
+          "name": "LED概念",
+          "change_pct": -0.58,
+          "main_net_cny": 793120096.0,
+          "main_net_pct": 1.91
+        },
+        {
+          "code": "BK1781",
+          "name": "华为鲲鹏",
+          "change_pct": -1.6,
+          "main_net_cny": 688002208.0,
+          "main_net_pct": 2.21
+        },
+        {
+          "code": "BK0498",
+          "name": "AB股",
+          "change_pct": -0.83,
+          "main_net_cny": 683692272.0,
+          "main_net_pct": 4.69
+        },
+        {
+          "code": "BK1130",
+          "name": "时空大数据",
+          "change_pct": -1.36,
+          "main_net_cny": 677624128.0,
+          "main_net_pct": 11.7
+        },
+        {
+          "code": "BK1137",
+          "name": "存储芯片",
+          "change_pct": 0.06,
+          "main_net_cny": 677512960.0,
+          "main_net_pct": 0.41
+        }
+      ],
+      "as_of": "2026-11-17"
+    },
+    "sentiment": {
+      "type": "fear_greed",
+      "horizon": "情绪快照，指向 0-3 个月",
+      "score": 30.96,
+      "rating": "fear",
+      "previous_close": 31.02,
+      "one_week_ago": 37.37,
+      "one_month_ago": 18.21,
+      "one_year_ago": 11.64,
+      "as_of": "2026-11-17"
+    },
+    "us_curve": {
+      "type": "yield_curve",
+      "horizon": "短端 3 个月 / 长端 10-30 年",
+      "curve_kind": "nominal",
+      "date": "11/16/2026",
+      "tenors": {
+        "1M": 4.1,
+        "1.5M": 4.19,
+        "2M": 4.27,
+        "3M": 4.34,
+        "4M": 4.33,
+        "6M": 4.42,
+        "1Y": 4.62,
+        "2Y": 4.83,
+        "3Y": 4.87,
+        "5Y": 4.93,
+        "7Y": 5.01,
+        "10Y": 5.12,
+        "20Y": 5.51,
+        "30Y": 5.46
+      },
+      "spread_10y_2y": 0.29,
+      "spread_10y_3m": 0.78,
+      "as_of": "11/16/2026"
+    },
+    "credit_gap": {
+      "type": "bis_credit_gap",
+      "horizon": "季度信贷缺口，指向 1-5 年（周期晚期信号）",
+      "credit_gap_by_country": {
+        "CN": {
+          "period": "2026-Q1",
+          "gap_pct": -5.14
+        }
+      },
+      "as_of": "2026-11-17"
+    }
+  },
+  "errors": {},
+  "meta": {
+    "generated_at": "2026-11-17T14:48:09+08:00",
+    "signal_count": 12,
+    "failed_count": 0,
+    "proxy": "直连",
+    "routing": "境内源直连 / 境外源走代理",
+    "note": "单源失败不代表其他信号无效；报告必须标注失败的信号为「不可用」，禁止编造数值。"
+  }
+}

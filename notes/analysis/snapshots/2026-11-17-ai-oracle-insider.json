@@ -1,0 +1,183 @@
+{
+  "data": {
+    "nvda_insider": {
+      "type": "edgar_insider",
+      "horizon": "内部人行为指向 3-12 个月",
+      "ticker": "NVDA",
+      "company_name": "NVIDIA CORP",
+      "total_form4_count": 556,
+      "recent_form4s": [
+        {
+          "filing_date": "2026-11-06",
+          "report_date": "2026-11-04",
+          "form_type": "4"
+        },
+        {
+          "filing_date": "2026-10-09",
+          "report_date": "2026-10-07",
+          "form_type": "4"
+        },
+        {
+          "filing_date": "2026-09-23",
+          "report_date": "2026-09-21",
+          "form_type": "4"
+        },
+        {
+          "filing_date": "2026-09-22",
+          "report_date": "2026-09-18",
+          "form_type": "4"
+        },
+        {
+          "filing_date": "2026-09-18",
+          "report_date": "2026-09-16",
+          "form_type": "4"
+        },
+        {
+          "filing_date": "2026-09-18",
+          "report_date": "2026-09-16",
+          "form_type": "4"
+        },
+        {
+          "filing_date": "2026-09-18",
+          "report_date": "2026-09-16",
+          "form_type": "4"
+        },
+        {
+          "filing_date": "2026-09-18",
+          "report_date": "2026-09-16",
+          "form_type": "4"
+        },
+        {
+          "filing_date": "2026-09-18",
+          "report_date": "2026-09-16",
+          "form_type": "4"
+        },
+        {
+          "filing_date": "2026-09-11",
+          "report_date": "2026-09-09",
+          "form_type": "4"
+        },
+        {
+          "filing_date": "2026-09-08",
+          "report_date": "2026-09-03",
+          "form_type": "4"
+        },
+        {
+          "filing_date": "2026-09-04",
+          "report_date": "2026-09-02",
+          "form_type": "4"
+        },
+        {
+          "filing_date": "2026-09-02",
+          "report_date": "2026-08-31",
+          "form_type": "4"
+        },
+        {
+          "filing_date": "2026-09-02",
+          "report_date": "2026-08-31",
+          "form_type": "4"
+        },
+        {
+          "filing_date": "2026-08-24",
+          "report_date": "2026-08-24",
+          "form_type": "4"
+        }
+      ],
+      "as_of": "2026-11-17"
+    },
+    "avgo_insider": {
+      "type": "edgar_insider",
+      "horizon": "内部人行为指向 3-12 个月",
+      "ticker": "AVGO",
+      "company_name": "Broadcom Inc.",
+      "total_form4_count": 472,
+      "recent_form4s": [
+        {
+          "filing_date": "2026-09-25",
+          "report_date": "2026-09-23",
+          "form_type": "4"
+        },
+        {
+          "filing_date": "2026-09-17",
+          "report_date": "2026-09-15",
+          "form_type": "4"
+        },
+        {
+          "filing_date": "2026-09-17",
+          "report_date": "2026-09-15",
+          "form_type": "4"
+        },
+        {
+          "filing_date": "2026-07-14",
+          "report_date": "2026-07-10",
+          "form_type": "4"
+        },
+        {
+          "filing_date": "2026-07-14",
+          "report_date": "2026-07-10",
+          "form_type": "4"
+        },
+        {
+          "filing_date": "2026-07-10",
+          "report_date": "2026-07-08",
+          "form_type": "4"
+        },
+        {
+          "filing_date": "2026-07-10",
+          "report_date": "2026-07-08",
+          "form_type": "4"
+        },
+        {
+          "filing_date": "2026-07-01",
+          "report_date": "2026-06-29",
+          "form_type": "4"
+        },
+        {
+          "filing_date": "2026-06-29",
+          "report_date": "2026-06-25",
+          "form_type": "4"
+        },
+        {
+          "filing_date": "2026-06-26",
+          "report_date": "2026-06-17",
+          "form_type": "4"
+        },
+        {
+          "filing_date": "2026-06-18",
+          "report_date": "2026-06-16",
+          "form_type": "4"
+        },
+        {
+          "filing_date": "2026-06-17",
+          "report_date": "2026-06-15",
+          "form_type": "4"
+        },
+        {
+          "filing_date": "2026-06-15",
+          "report_date": "2026-06-11",
+          "form_type": "4"
+        },
+        {
+          "filing_date": "2026-04-23",
+          "report_date": "2026-04-21",
+          "form_type": "4"
+        },
+        {
+          "filing_date": "2026-04-22",
+          "report_date": "2026-04-20",
+          "form_type": "4"
+        }
+      ],
+      "as_of": "2026-11-17"
+    }
+  },
+  "errors": {},
+  "meta": {
+    "generated_at": "2026-11-17T14:48:43+08:00",
+    "signal_count": 2,
+    "failed_count": 0,
+    "proxy": "直连",
+    "routing": "境内源直连 / 境外源走代理",
+    "note": "单源失败不代表其他信号无效；报告必须标注失败的信号为「不可用」，禁止编造数值。"
+  }
+}
